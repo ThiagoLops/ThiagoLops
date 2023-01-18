@@ -1,8 +1,8 @@
--  Hi, I’m @ThiagoLops
--  I’m interested in  aprender programação!
--  I’m currently learning JavaScript, Html e Css.   
--  I’m looking to collaborate on  como minha critividade e minha experiência.
-- 📫 How to reach me ase meu  IG __thiagolopes018  ou Linkedin > https://www.linkedin.com/in/thiago-lops/ 
-ThiagoLops/ThiagoLops is a repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+- Oi, eu sou @ThiagoLops
+- Estou aprendendo Back-end!
+- Sou graduando de análise e desenvolvimento de sistemas.
+- Tenho como objetivo entrar na área de T.I para adquirir novas habilidades e experiências. 
+- 📫 Como chegar até meu IG __thiagolopes018 ou Linkedin > https://www.linkedin.com/in/thiago-lops/
+ThiagoLops/ThiagoLops é um repositório porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
+Você pode clicar no link Visualizar para ver suas alterações.
 --->
